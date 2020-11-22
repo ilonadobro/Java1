@@ -3,7 +3,9 @@
 **В результате тестирования выявлены следующие дефекты:**
 
 https://github.com/ilonadobro/Java1/issues/2
+
 https://github.com/ilonadobro/Java1/issues/3
+
 https://github.com/ilonadobro/Java1/issues/4
 
 **Описание процесса тестирования**
